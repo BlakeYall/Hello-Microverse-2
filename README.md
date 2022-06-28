@@ -1,8 +1,8 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Microverse Project
 
-> Description the project.
+> Add information to Repo created.
 
 
 ## Built With
